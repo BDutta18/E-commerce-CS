@@ -1,0 +1,42 @@
+{
+  "name": "CityStyle",
+  "bucket": "",
+  "preset": "javascript",
+  "env": "production",
+  "prefix": "20241127111536",
+  "not-first-run": true,
+  "function": {
+    "id": 32856,
+    "name": "__DEFAULT__",
+    "file": ".edge/worker.js",
+    "args": "azion/args.json",
+    "instance-id": 31574,
+    "instance-name": "__DEFAULT__",
+    "cache-id": 190186
+  },
+  "application": {
+    "id": 1732700225,
+    "name": "__DEFAULT__"
+  },
+  "domain": {
+    "id": 1732706189,
+    "name": "CityStyle",
+    "domain_name": "vuu4j26x0v.map.azionedge.net",
+    "url": "https://vuu4j26x0v.map.azionedge.net"
+  },
+  "rt-purge": {
+    "purge_on_publish": true
+  },
+  "origin": [],
+  "rules-engine": {
+    "created": false,
+    "rules": [
+      {
+        "id": 326823,
+        "name": "Execute Edge Function",
+        "phase": "request"
+      }
+    ]
+  },
+  "cache-settings": []
+}

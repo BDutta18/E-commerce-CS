@@ -70,7 +70,7 @@ function main(event) {
           </div>
         </div>
         <div class="header__image">
-          <img src="assets/header (1).png" alt="header" />
+          <img src="https://raw.githubusercontent.com/BDutta18/CITY-STYLE/refs/heads/main/assets/header%20(1).png" alt="header" />
         </div>
       </div>
       <style>
